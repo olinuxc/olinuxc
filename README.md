@@ -41,7 +41,7 @@ welcome to olinuxc!
 **sending variable RUN execute your scripts at the container startup**
 
 
-### Availables distros
+### Available distros
 
 | Distro                           | Docker Image    | Launch command                              |
 |:---------------------------------|:----------------|:--------------------------------------------|
